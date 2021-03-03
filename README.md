@@ -1,0 +1,2 @@
+# DesktopWallet
+Krosschain Desktop Wallet
